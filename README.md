@@ -1,2 +1,2 @@
 # demo
-this is demo for gut &amp;github
+this is demo for gut &amp;github.
